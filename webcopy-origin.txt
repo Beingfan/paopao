@@ -1,0 +1,56 @@
+Uri: https://paopao-im.vercel.app/
+File Name: E:\桌面\paopao-im.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://paopao-im.vercel.app/resource/1.png
+File Name: E:\桌面\paopao-im.vercel.app\resource\1.png
+Content Type: image/png
+
+Uri: https://paopao-im.vercel.app/resource/animate.css
+File Name: E:\桌面\paopao-im.vercel.app\resource\animate.css
+Content Type: text/css
+
+Uri: https://paopao-im.vercel.app/resource/bg.png
+File Name: E:\桌面\paopao-im.vercel.app\resource\bg.png
+Content Type: image/png
+
+Uri: https://paopao-im.vercel.app/resource/bootstrap.css
+File Name: E:\桌面\paopao-im.vercel.app\resource\bootstrap.css
+Content Type: text/css
+
+Uri: https://paopao-im.vercel.app/resource/download.png
+File Name: E:\桌面\paopao-im.vercel.app\resource\download.png
+Content Type: image/png
+
+Uri: https://paopao-im.vercel.app/resource/hm.js.下载
+File Name: E:\桌面\paopao-im.vercel.app\resource\hm.js.下载
+Content Type: application/octet-stream
+
+Uri: https://paopao-im.vercel.app/resource/icomoon.css
+File Name: E:\桌面\paopao-im.vercel.app\resource\icomoon.css
+Content Type: text/css
+
+Uri: https://paopao-im.vercel.app/resource/index.css
+File Name: E:\桌面\paopao-im.vercel.app\resource\index.css
+Content Type: text/css
+
+Uri: https://paopao-im.vercel.app/resource/jquery-3.6.0.min.js.下载
+File Name: E:\桌面\paopao-im.vercel.app\resource\jquery-3.6.0.min.js.下载
+Content Type: application/octet-stream
+
+Uri: https://paopao-im.vercel.app/resource/jquery.cookie.js.下载
+File Name: E:\桌面\paopao-im.vercel.app\resource\jquery.cookie.js.下载
+Content Type: application/octet-stream
+
+Uri: https://paopao-im.vercel.app/resource/jquery.waypoints.min.js.下载
+File Name: E:\桌面\paopao-im.vercel.app\resource\jquery.waypoints.min.js.下载
+Content Type: application/octet-stream
+
+Uri: https://paopao-im.vercel.app/resource/logo.png
+File Name: E:\桌面\paopao-im.vercel.app\resource\logo.png
+Content Type: image/png
+
+Uri: https://paopao-im.vercel.app/resource/windows.png
+File Name: E:\桌面\paopao-im.vercel.app\resource\windows.png
+Content Type: image/png
+
